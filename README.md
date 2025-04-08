@@ -11,3 +11,4 @@ Vuestro reto tendrá que centrarse en:
 Ejemplos:
 
 - Evaluación de perplejidad: Mide la capacidad de un modelo para predecir una secuencia de palabras, siendo una métrica común en la evaluación de modelos de lenguaje.
+- Conjuntos de datos adversariales: Diseñados para identificar debilidades en los modelos, como el conjunto TruthfulQA, que evalúa la tendencia de los modelos a replicar falsedades comunes.
